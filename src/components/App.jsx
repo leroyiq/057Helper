@@ -7,13 +7,13 @@ export const App = () => {
       <H1>Твiй помiчник у пошуку нерухомостi.</H1>
       <ul>
         <li>
-          <a href="">Наш Сайт</a>
+          <a href="https://bit.ly/41y53Lj">Наш Сайт</a>
         </li>
         <li>
-          <a href="">Наш Telegram бот</a>
+          <a href="https://bit.ly/43B7DC7">Наш Telegram бот</a>
         </li>
         <li>
-          <a href="">Наш додаток Android</a>
+          <a href="https://bit.ly/43xyj6N">Наш додаток Android</a>
         </li>
       </ul>
     </>
