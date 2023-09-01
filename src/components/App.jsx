@@ -1,16 +1,21 @@
+import { DIV, H1 } from './App.styled';
+
 export const App = () => {
   return (
-    <div
-      style={{
-        height: '100vh',
-        display: 'flex',
-        justifyContent: 'center',
-        alignItems: 'center',
-        fontSize: 40,
-        color: '#010101',
-      }}
-    >
-      057Helper
-    </div>
+    <>
+      <DIV></DIV>
+      <H1>Твiй помiчник у пошуку нерухомостi.</H1>
+      <ul>
+        <li>
+          <a href="">Наш Сайт</a>
+        </li>
+        <li>
+          <a href="">Наш Telegram бот</a>
+        </li>
+        <li>
+          <a href="">Наш додаток Android</a>
+        </li>
+      </ul>
+    </>
   );
 };
