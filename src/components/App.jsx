@@ -9,7 +9,7 @@ export const App = () => {
         <img src={estate} alt="1" width="100px" />
       </DIV>
 
-      <H1>Твiй помiчник у пошуку нерухомостi.</H1>
+      <H1>Твiй помiчник у пошуку нерухомостi</H1>
       <ul
         style={{
           margin: 40,
