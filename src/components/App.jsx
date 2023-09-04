@@ -10,7 +10,16 @@ export const App = () => {
       </DIV>
 
       <H1>Твiй помiчник у пошуку нерухомостi.</H1>
-      <ul style={{ margin: 40, padding: 0 }}>
+      <ul
+        style={{
+          margin: 40,
+          padding: 0,
+          display: 'flex',
+          justifyContent: 'center',
+          flexDirection: 'column',
+          alignItems: 'center',
+        }}
+      >
         <BUTTON>
           <FaInternetExplorer />
           <a href="https://bit.ly/41y53Lj">Наш Сайт</a>
