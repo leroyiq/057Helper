@@ -21,7 +21,7 @@ export const DIV = styled.div`
 export const H1 = styled.h1`
   display: block;
   text-align: center;
-
+  margin: 0;
   background-color: #7bac91;
   padding: 10px;
   -webkit-box-shadow: -10px 0px 13px -7px #000000, 10px 0px 13px -7px #000000,
