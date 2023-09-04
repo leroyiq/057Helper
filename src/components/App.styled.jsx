@@ -56,8 +56,8 @@ export const BUTTON = styled.li`
   cursor: pointer;
   color: #ffffff;
   font-family: Arial;
-  font-size: 18px;
-  padding: 5px 10px;
+  font-size: 22px;
+  padding: 10px 15px;
   text-decoration: none;
   text-shadow: 0px 1px 0px #3d768a;
   margin-bottom: 15px;
