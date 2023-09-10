@@ -30,15 +30,15 @@ export const App = () => {
           alignItems: 'center',
         }}
       >
-        <BUTTON className="animate__animated animate__flipInX animate__faster">
+        <BUTTON className="animate__animated animate__flipInX ">
           <img src={InetSite} alt="" width={25} height={25} />
           <a href="https://bit.ly/41y53Lj">Наш Сайт</a>
         </BUTTON>
-        <BUTTON className="animate__animated animate__flipInX animate__faster">
+        <BUTTON className="animate__animated animate__flipInX ">
           <img src={TelegramIcon} alt="" width={25} height={25} />
           <a href="https://bit.ly/43B7DC7">Наш Telegram бот</a>
         </BUTTON>
-        <BUTTON className="animate__animated animate__flipInX animate__faster">
+        <BUTTON className="animate__animated animate__flipInX ">
           <img src={Gplay} alt="" width={25} height={25} />
           <a href="https://bit.ly/43xyj6N">Наш додаток Android</a>
         </BUTTON>
