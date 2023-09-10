@@ -28,6 +28,7 @@ export const App = () => {
           justifyContent: 'center',
           flexDirection: 'column',
           alignItems: 'center',
+          gap: 15,
         }}
       >
         <BUTTON className="animate__animated animate__flipInX ">

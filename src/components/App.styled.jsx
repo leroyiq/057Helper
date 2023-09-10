@@ -55,7 +55,6 @@ export const BUTTON = styled.li`
   padding: 10px 15px;
   text-decoration: none;
   text-shadow: 0px 1px 0px #3d768a;
-  margin-bottom: 15px;
 
   a {
     padding-left: 10px;
