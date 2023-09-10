@@ -43,6 +43,7 @@ export const H1 = styled.h1`
 
 export const BUTTON = styled.li`
   display: flex;
+  align-items: center;
   box-shadow: 0px 10px 14px -7px #252525;
   background-color: #6c7072;
   border-radius: 5px;
