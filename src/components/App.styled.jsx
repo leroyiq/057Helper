@@ -43,15 +43,13 @@ export const H1 = styled.h1`
 
 export const BUTTON = styled.li`
   display: flex;
-  box-shadow: 0px 10px 14px -7px #276873;
-  background: linear-gradient(to bottom, #599bb3 5%, #408c99 100%);
-  background-color: #599bb3;
+  box-shadow: 0px 10px 14px -7px #252525;
+  background-color: #6c7072;
   border-radius: 5px;
-
   min-width: 250px;
   cursor: pointer;
-  color: #ffffff;
-  font-family: Arial;
+
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   font-size: 22px;
   padding: 10px 15px;
   text-decoration: none;
