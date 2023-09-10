@@ -3,19 +3,15 @@ import background from '../pictures/photo_2023-04-07_14-08-17.jpg';
 
 export const DIV = styled.div`
   background-image: url(${background});
-
+  display: flex;
+  justify-content: center;
+  align-items: center;
   height: 200px;
   /* margin: 10px 10px; */
   /* background-position: 50% 10px; */
-  background-size: 40%;
+  background-size: 100%;
   background-repeat: no-repeat;
   background-size: cover;
-  img {
-    position: absolute;
-    top: 12%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-  }
 `;
 
 export const H1 = styled.h1`
