@@ -47,7 +47,7 @@ export const BUTTON = styled.li`
   box-shadow: 0px 10px 14px -7px #252525;
   background-color: #6c7072;
   border-radius: 5px;
-  min-width: 250px;
+  min-width: 300px;
   cursor: pointer;
 
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
