@@ -1,7 +1,5 @@
 import { BUTTON, DIV, H1 } from './App.styled';
-
 import estate from '../pictures/LogoV2_rounded.png';
-import { FaGooglePlay, FaInternetExplorer, FaTelegram } from 'react-icons/fa';
 import TelegramIcon from '../pictures/telegram.png';
 import InetSite from '../pictures/site.png';
 import Gplay from '../pictures/gplay.png';
@@ -33,17 +31,14 @@ export const App = () => {
         }}
       >
         <BUTTON className="animate__animated animate__flipInX animate__faster">
-          {/* <FaInternetExplorer /> */}
           <img src={InetSite} alt="" width={25} height={25} />
           <a href="https://bit.ly/41y53Lj">Наш Сайт</a>
         </BUTTON>
         <BUTTON className="animate__animated animate__flipInX animate__faster">
-          {/* <FaTelegram /> */}
           <img src={TelegramIcon} alt="" width={25} height={25} />
           <a href="https://bit.ly/43B7DC7">Наш Telegram бот</a>
         </BUTTON>
         <BUTTON className="animate__animated animate__flipInX animate__faster">
-          {/* <FaGooglePlay /> */}
           <img src={Gplay} alt="" width={25} height={25} />
           <a href="https://bit.ly/43xyj6N">Наш додаток Android</a>
         </BUTTON>
